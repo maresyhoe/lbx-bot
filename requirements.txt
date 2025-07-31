@@ -6,7 +6,7 @@ asyncpg==0.21.0
 imdbpie==5.6.4
 letterboxd==0.3.0
 aiohttp==3.6.3
-git+https://github.com/Rapptz/discord-ext-menus.git@main
+git+https://github.com/Rapptz/discord-ext-menus.git@master
 motor==2.4.0
 parsel==1.6.0
 markdownify==0.6.3
